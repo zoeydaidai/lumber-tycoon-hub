@@ -1,0 +1,10 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "rewrites": [
+    { "source": "/lumber-tycoon-secret-badge", "destination": "/lumber-tycoon-secret-badge.html" },
+    { "source": "/lumber-tycoon-2-secret-badge", "destination": "/lumber-tycoon-2-secret-badge.html" },
+    { "source": "/how-to-turn-on-work-light-in-lumber-tycoon-2", "destination": "/how-to-turn-on-work-light-in-lumber-tycoon-2.html" },
+    { "source": "/lumber-tycoon-2-secret-quest", "destination": "/lumber-tycoon-2-secret-quest.html" }
+  ]
+}
